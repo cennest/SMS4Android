@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_decrypt_file">Decrypt File</string>
+    <string name="title_activity_landing">SMS4 Encryption Demo</string>
+</resources>
